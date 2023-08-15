@@ -1,0 +1,26 @@
+{
+    "manufacturer": "liliums",
+    "keyboard_name": "Lily58",
+    "maintainer": "yuchi",
+    "bootloader": "custom",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": false,
+        "mousekey": false,
+        "nkro": true
+    },
+    "usb": {
+        "vid": "0x1209",
+        "pid": "0x5800",
+        "device_version": "1.0.0"
+    },
+    "matrix_pins": {
+        "cols": ["GP5", "GP6", "GP7", "GP8", "GP9", "GP10"],
+        "rows": ["GP12", "GP13", "GP14", "GP15", "GP17"]
+    },
+    "processor": "RP2040",
+    "url": ""
+}
