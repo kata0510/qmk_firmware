@@ -1,0 +1,17 @@
+{
+    "manufacturer": "liliums",
+    "keyboard_name": "lily58_RP2040",
+    "maintainer": "yuchi",
+    "bootloader": "custom",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": false,
+        "mousekey": false,
+        "nkro": true
+    },
+    "processor": "RP2040",
+    "url": ""
+}

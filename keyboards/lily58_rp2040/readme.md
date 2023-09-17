@@ -1,4 +1,4 @@
-# Lily58 Pro Rev2
+# lily58_rp2040
 
 ![lily58_rp2040](imgur.com image replace me!)
 
