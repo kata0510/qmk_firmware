@@ -19,9 +19,6 @@
 #define I2C1_SDA_PIN GP18
 #define I2C1_SCL_PIN GP19
 
-#define ENCODERS_PAD_A { GP3 }
-#define ENCODERS_PAD_B { GP2 }
-
 #define SERIAL_DEBUG
 
 #define WS2812_PIO_USE_PIO1
