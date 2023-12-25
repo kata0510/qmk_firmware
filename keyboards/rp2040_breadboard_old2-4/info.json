@@ -1,0 +1,48 @@
+{
+    "manufacturer": "yuchi",
+    "keyboard_name": "rp2040_breadboard",
+    "maintainer": "yuchi",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": ["GP14", "GP15"],
+        "rows": ["GP17", "GP16"]
+    },
+    "split": {
+        "enabled": true
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_ortho_2x4": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [1, 0], "x": 1, "y": 0},
+                {"matrix": [2, 0], "x": 2, "y": 0},
+                {"matrix": [3, 0], "x": 3, "y": 0},
+                {"matrix": [0, 1], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+                {"matrix": [2, 1], "x": 2, "y": 1},
+                {"matrix": [3, 1], "x": 3, "y": 1}
+            ]
+        }
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP5", "pin_b": "GP6"}
+        ]
+    }
+}
