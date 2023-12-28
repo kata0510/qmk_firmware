@@ -1,20 +1,20 @@
-# rp2040_breadboard
+# rp2040_breadboard_test
 
-![rp2040_breadboard](imgur.com image replace me!)
+![rp2040_breadboard_test](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [yuchi](https://github.com/yuchi)
+* Keyboard Maintainer: [kata0510](https://github.com/kata0510)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
-    make rp2040_breadboard:default
+    make rp2040_breadboard_test:default
 
 Flashing example for this keyboard:
 
-    make rp2040_breadboard:default:flash
+    make rp2040_breadboard_test:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
