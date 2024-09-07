@@ -13,6 +13,9 @@
     },
     "split": {
         "enabled": true,
+        "serial": {
+            "driver": "vendor"
+        },
         "handedness": {
             "pin": "GP21"
         }
