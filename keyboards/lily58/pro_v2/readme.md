@@ -4,9 +4,9 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [yuchi](https://github.com/kata0510)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Keyboard Maintainer: [yuchi](https://yuchi.io/)
+* Hardware Supported: Lily58 Pro V2 PCB(RP2040)
+* Hardware Availability: [Lily58 Repository](https://github.com/kata0510/Lily58)
 
 Make example for this keyboard (after setting up your build environment):
 
