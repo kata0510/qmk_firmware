@@ -1,6 +1,8 @@
 # Lily58 Pro v2
 
-![lily58_pro_v2](imgur.com image replace me!)
+![lily58_pro_v2_pcb_front](https://github.com/user-attachments/assets/a3550114-561d-4928-a12a-50b27f4db750)
+
+![lily58_pro_v2_pcb_back](https://github.com/user-attachments/assets/f2789292-1a69-4769-8b3a-0ea8b8a6f024)
 
 *A short description of the keyboard/project*
 
